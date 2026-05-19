@@ -48,7 +48,7 @@ The project was built using Python, Pandas, Matplotlib, and Seaborn.
 
 ## Team Win Percentage
 
-![Team Wins](images/win_percentage.png)
+![Team Wins]([images/win_percentage.png](https://github.com/lionelharis/IPL-Data-Analytics/blob/main/Screenshot%202026-05-19%20151134.png#:~:text=19%20151038.png-,Screenshot%202026%2D05%2D19%20151134.png,-Screenshot%202026%2D05))
 
 ---
 
